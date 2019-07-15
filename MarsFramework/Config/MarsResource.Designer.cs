@@ -70,7 +70,7 @@ namespace MarsFramework.Config {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to C:\Sana-IndConct\StandardTasks\Mars-Standard-Task\MarsFramework\ExcelData\TestData.xlsx.
+        ///   Looks up a localized string similar to C:\Sana-IndConct\MarsFramework\MarsFramework\ExcelData\TestData.xlsx.
         /// </summary>
         internal static string ExcelPath {
             get {
@@ -88,7 +88,7 @@ namespace MarsFramework.Config {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to C:\Sana-IndConct\StandardTasks\Mars-Standard-Task\MarsFramework\TestReports\MarsReports.html.
+        ///   Looks up a localized string similar to C:\Sana-IndConct\MarsFramework\MarsFramework\TestReports\MarsReports.html.
         /// </summary>
         internal static string ReportPath {
             get {
@@ -97,7 +97,7 @@ namespace MarsFramework.Config {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to C:\Sana-IndConct\StandardTasks\Mars-Standard-Task\MarsFramework\Config\XMLFile.xml.
+        ///   Looks up a localized string similar to C:\Sana-IndConct\MarsFramework\MarsFramework\Config\XMLFile.xml.
         /// </summary>
         internal static string ReportXMLPath {
             get {
@@ -106,7 +106,7 @@ namespace MarsFramework.Config {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to C:\Sana-IndConct\StandardTasks\Mars-Standard-Task\MarsFramework\TestReports\Screenshots\.
+        ///   Looks up a localized string similar to C:\Sana-IndConct\MarsFramework\MarsFramework\TestReports\Screenshots\.
         /// </summary>
         internal static string ScreenShotPath {
             get {
