@@ -122,19 +122,19 @@
     <comment>1 for firefox and 2 for Chrome</comment>
   </data>
   <data name="ExcelPath" xml:space="preserve">
-    <value>C:\Sana-IndConct\MarsFramework\MarsFramework\ExcelData\TestData.xlsx</value>
+    <value>C:\Sana-IndConct\StandardTasks\Mars-Standard-Task\MarsFramework\ExcelData\TestData.xlsx</value>
   </data>
   <data name="IsLogin" xml:space="preserve">
     <value>true</value>
     <comment>If true Login, else Register</comment>
   </data>
   <data name="ReportPath" xml:space="preserve">
-    <value>C:\Sana-IndConct\MarsFramework\MarsFramework\TestReports\MarsReports.html</value>
+    <value>C:\Sana-IndConct\StandardTasks\Mars-Standard-Task\MarsFramework\TestReports\MarsReports.html</value>
   </data>
   <data name="ReportXMLPath" xml:space="preserve">
-    <value>C:\Sana-IndConct\MarsFramework\MarsFramework\Config\XMLFile.xml</value>
+    <value>C:\Sana-IndConct\StandardTasks\Mars-Standard-Task\MarsFramework\Config\XMLFile.xml</value>
   </data>
   <data name="ScreenShotPath" xml:space="preserve">
-    <value>C:\Sana-IndConct\MarsFramework\MarsFramework\TestReports\Screenshots\</value>
+    <value>C:\Sana-IndConct\StandardTasks\Mars-Standard-Task\MarsFramework\TestReports\Screenshots\</value>
   </data>
 </root>
